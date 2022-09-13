@@ -1,10 +1,8 @@
 statuses = [
-            "with DL nation",
-            "Team Fortress 2",
-            "your mom",
-            "with your balls",
+            "Pass the parcel",
+            "with you",
             "with Hobospider132",
-            "with the U.S. Congress"
+            "Your new phone"
         ]
 
 error_quotes = [
